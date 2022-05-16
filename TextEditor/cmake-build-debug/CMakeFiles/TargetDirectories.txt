@@ -1,0 +1,3 @@
+C:/Users/LEGION/TextEditor/cmake-build-debug/CMakeFiles/TextEditor.dir
+C:/Users/LEGION/TextEditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/TextEditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
